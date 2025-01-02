@@ -1,0 +1,6 @@
+genai
+*.json
+models
+.DS_Store
+.ipynb_checkpoints/
+delete.ipynb
